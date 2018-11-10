@@ -16,3 +16,4 @@ end
 
 def count_elements(array)
   array {|word| word.count}
+end
